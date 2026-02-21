@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "tg_msg_id": 1,
+        "session_id": "ABC123",
+        "text": "Hello, I need help with my AC",
+        "type": "text",
+        "from": "Rahul Sharma",
+        "direction": "outgoing",
+        "timestamp": 1700000000,
+        "read": true
+    },
+    {
+        "id": 2,
+        "tg_msg_id": 2,
+        "session_id": "ABC123",
+        "text": "Sure! What is the issue with your AC?",
+        "from": "SharkCool",
+        "direction": "incoming",
+        "timestamp": 1700000060,
+        "read": true
+    },
+    {
+        "id": 3,
+        "tg_msg_id": 3,
+        "session_id": "ABC123",
+        "text": "It is not cooling properly",
+        "type": "text",
+        "from": "Rahul Sharma",
+        "direction": "outgoing",
+        "timestamp": 1700000120,
+        "read": true
+    },
+    {
+        "id": 4,
+        "tg_msg_id": 4,
+        "session_id": "ABC123",
+        "text": "📷 Image",
+        "type": "image",
+        "image_url": "chat-uploads/img_sample.jpg",
+        "from": "Rahul Sharma",
+        "direction": "outgoing",
+        "timestamp": 1700000180,
+        "read": true
+    },
+    {
+        "id": 5,
+        "tg_msg_id": 5,
+        "session_id": "ABC123",
+        "text": "🎤 Voice message",
+        "type": "voice",
+        "voice_url": "chat-uploads/voice_sample.ogg",
+        "from": "Rahul Sharma",
+        "direction": "outgoing",
+        "timestamp": 1700000240,
+        "read": false
+    },
+    {
+        "id": 6,
+        "tg_msg_id": 6,
+        "session_id": "XYZ789",
+        "text": "Hi, I want to book a service",
+        "type": "text",
+        "from": "Puja Das",
+        "direction": "outgoing",
+        "timestamp": 1700000300,
+        "read": true
+    },
+    {
+        "id": 7,
+        "tg_msg_id": 7,
+        "session_id": "XYZ789",
+        "text": "Welcome! Please share your location and appliance details.",
+        "from": "SharkCool",
+        "direction": "incoming",
+        "timestamp": 1700000360,
+        "read": false
+    }
+]
