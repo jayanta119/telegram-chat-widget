@@ -4,7 +4,7 @@
  * Commands: /status, /clean [SESSION_ID|all]
  */
 
-define('BOT_TOKEN',     '8354690191:AAEkRrJHXXM9-1lb50r5GnAA9el-LHWf7V8');
+define('BOT_TOKEN',     '835469  put  api   7V8');
 define('ADMIN_CHAT_ID', '2073760310');
 define('MESSAGES_FILE', __DIR__ . '/tg-messages.json');
 
